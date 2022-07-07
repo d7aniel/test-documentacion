@@ -20,3 +20,5 @@ Contents
 
    usage
    api
+   Tutorial 1
+   Tutorial 2
