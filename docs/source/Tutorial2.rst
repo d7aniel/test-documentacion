@@ -1,4 +1,4 @@
-API
+Tutorial 2
 ===
 
 .. autosummary::
